@@ -1,0 +1,17 @@
+mpld3
+pandas_datareader
+yfinance
+os
+site
+sys
+django
+tensorflow
+numpy
+matplotlib
+seaborn
+pandas
+sklearn
+datetime
+tqdm
+pickle
+time
